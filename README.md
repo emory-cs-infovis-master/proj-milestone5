@@ -33,3 +33,9 @@ In addition to the requirements above, this document should be augmented to incl
 - Conclusion: a short paragraph summarizing what you built and why it's relevant. 
 
 **One or two (for combined under/graduate teams) statements per project team due as a push (not just a commit) to github.**
+
+## Grading: 
+- [20%] System code, hosted, and operational
+- [30%] Video figure
+- [40%] Report
+- [10%] Peer feedback
