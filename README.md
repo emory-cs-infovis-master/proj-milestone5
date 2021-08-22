@@ -36,6 +36,7 @@ In addition to the requirements above, this document should be augmented to incl
 
 ## Grading: 
 - [20%] System code, hosted, and operational
-- [30%] Video figure
-- [40%] Report
-- [10%] Peer feedback
+- [25%] Video figure
+- [35%] Report
+- [10%] Group feedback (from your groupmates)
+- [10%] Peer feedback (from other classmates)
