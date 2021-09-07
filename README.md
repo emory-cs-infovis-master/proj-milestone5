@@ -40,3 +40,6 @@ In addition to the requirements above, this document should be augmented to incl
 - [35%] Report
 - [10%] Group feedback (from your groupmates)
 - [10%] Peer feedback (from other classmates)
+
+### Formatting: 
+For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
