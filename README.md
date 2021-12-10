@@ -35,9 +35,10 @@ In addition to the requirements above, this document should be augmented to incl
 **One or two (for combined under/graduate teams) statements per project team due as a push (not just a commit) to github.**
 
 ## Grading: 
-- [20%] System code, hosted, and operational
-- [25%] Video figure
-- [35%] Report
+- [25%] System design 
+- [20%] System execution -- code, hosted, and operational
+- [15%] Video figure
+- [20%] Report
 - [10%] Group feedback (from your groupmates)
 - [10%] Peer feedback (from other classmates)
 
